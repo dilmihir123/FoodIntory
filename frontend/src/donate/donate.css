@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Chelsea+Market&display=swap);
+
+  .donate-text {
+    color: whitesmoke;
+  }
+  ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+  }
+  ul.header {
+    border-radius: 10px;
+    background-color: #2F2c2c;
+    height: 0.8in;
+    opacity: 0.8;
+    padding: 0;
+    margin-left: 90px;
+    margin-right: 220px;
+  }
+  ul.header li a {
+     border-radius: 10px;
+    color: #CFE4AB;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 25px;
+    display: inline-block;
+  }
+  .content {
+     border-radius: 10px;
+    background-color: #678587;
+    opacity: 0.8;
+    padding: 20px;
+    margin-left: 90px;
+    margin-right: 220px;
+    color: whitesmoke;
+    
+  }
+  .content h2 {
+    padding: 0;
+    margin: 0;
+  }
+  .content li {
+    margin-bottom: 10px;
+    
+  }
+  .active {
+     border-radius: 5px;
+    background-color: #7CBD6A;
+  }
+  
